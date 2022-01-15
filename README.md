@@ -3,5 +3,5 @@
 
  ### Resultado Final
 
- < img src = "./img/tela de login.png" alt = "Versão Final /> 
+ < img src = "img/tela de login.png" alt = "Versão Final /> 
 
